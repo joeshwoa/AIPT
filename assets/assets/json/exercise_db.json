@@ -1,0 +1,2391 @@
+{
+  "forearms": [
+    {
+      "name": "rickshaw carry",
+      "equipment": "other",
+      "rating": 9.6
+    },
+    {
+      "name": "palms-down wrist curl over bench",
+      "equipment": "barbell",
+      "rating": 9.5
+    },
+    {
+      "name": "straight-bar wrist roll-up",
+      "equipment": "bodyweight",
+      "rating": 9.5
+    },
+    {
+      "name": "dumbbell farmer's walk",
+      "equipment": "other",
+      "rating": 9.4
+    },
+    {
+      "name": "palms-up wrist curl over bench",
+      "equipment": "barbell",
+      "rating": 9.4
+    },
+    {
+      "name": "standing behind-the-back wrist curl",
+      "equipment": "barbell",
+      "rating": 9.3
+    },
+    {
+      "name": "seated finger curl",
+      "equipment": "barbell",
+      "rating": 9.3
+    },
+    {
+      "name": "seated two-arm palms-up low-pulley wrist curl",
+      "equipment": "cable",
+      "rating": 9.2
+    },
+    {
+      "name": "seated two-arm palms-up low-pulley wrist curl",
+      "equipment": "cable",
+      "rating": 9.2
+    },
+    {
+      "name": "wrist roller",
+      "equipment": "other",
+      "rating": 9.1
+    },
+    {
+      "name": "seated one-arm dumbbell palms-up wrist curl",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "seated palms-down barbell wrist curl",
+      "equipment": "bodyweight",
+      "rating": 9.0
+    },
+    {
+      "name": "seated one-arm dumbbell palms-up wrist curl",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "seated palms-down barbell wrist curl",
+      "equipment": "bodyweight",
+      "rating": 9.0
+    },
+    {
+      "name": "dumbbell lying supination",
+      "equipment": "bodyweight",
+      "rating": 8.9
+    },
+    {
+      "name": "dumbbell lying pronation",
+      "equipment": "bodyweight",
+      "rating": 8.8
+    },
+    {
+      "name": "seated palms-up wrist curl",
+      "equipment": "barbell",
+      "rating": 8.7
+    },
+    {
+      "name": "palms-up dumbbell wrist curl over a bench",
+      "equipment": "dumbbell",
+      "rating": 8.6
+    },
+    {
+      "name": "standing olympic plate hand squeeze",
+      "equipment": "other",
+      "rating": 8.6
+    },
+    {
+      "name": "standing olympic plate hand squeeze",
+      "equipment": "other",
+      "rating": 8.6
+    },
+    {
+      "name": "seated palms-down wrist curl",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "palms-down dumbbell wrist curl over a bench",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "palms-down dumbbell wrist curl over a bench",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "seated one-arm dumbbell palms-down wrist curl",
+      "equipment": "dumbbell",
+      "rating": 8.3
+    },
+    {
+      "name": "plate pinch",
+      "equipment": "other",
+      "rating": 8.3
+    }
+  ],
+  "quadriceps": [
+    {
+      "name": "single-leg press",
+      "equipment": "machine",
+      "rating": 9.6
+    },
+    {
+      "name": "clean from blocks",
+      "equipment": "barbell",
+      "rating": 9.5
+    },
+    {
+      "name": "barbell full squat",
+      "equipment": "barbell",
+      "rating": 9.4
+    },
+    {
+      "name": "tire flip",
+      "equipment": "other",
+      "rating": 9.4
+    },
+    {
+      "name": "barbell back squat to box",
+      "equipment": "barbell",
+      "rating": 9.3
+    },
+    {
+      "name": "push-press",
+      "equipment": "barbell",
+      "rating": 9.3
+    },
+    {
+      "name": "power snatch-",
+      "equipment": "barbell",
+      "rating": 9.3
+    },
+    {
+      "name": "hang clean",
+      "equipment": "barbell",
+      "rating": 9.3
+    },
+    {
+      "name": "reverse band box squat",
+      "equipment": "bodyweight",
+      "rating": 9.3
+    },
+    {
+      "name": "jumping rope",
+      "equipment": "body only",
+      "rating": 9.2
+    },
+    {
+      "name": "barbell walking lunge",
+      "equipment": "barbell",
+      "rating": 9.2
+    },
+    {
+      "name": "front squats with two kettlebells",
+      "equipment": "kettlebells",
+      "rating": 9.2
+    },
+    {
+      "name": "single leg push-off",
+      "equipment": "other",
+      "rating": 9.2
+    },
+    {
+      "name": "single leg push-off",
+      "equipment": "other",
+      "rating": 9.2
+    },
+    {
+      "name": "olympic squat",
+      "equipment": "barbell",
+      "rating": 9.1
+    },
+    {
+      "name": "stair climber",
+      "equipment": "machine",
+      "rating": 9.1
+    },
+    {
+      "name": "kettlebell pistol squat",
+      "equipment": "kettlebells",
+      "rating": 9.1
+    },
+    {
+      "name": "forward lunge",
+      "equipment": "body only",
+      "rating": 9.0
+    },
+    {
+      "name": "narrow-stance squat",
+      "equipment": "barbell",
+      "rating": 9.0
+    },
+    {
+      "name": "bear crawl sled drag",
+      "equipment": "other",
+      "rating": 9.0
+    },
+    {
+      "name": "box squat with bands",
+      "equipment": "barbell",
+      "rating": 9.0
+    },
+    {
+      "name": "narrow-stance squat",
+      "equipment": "barbell",
+      "rating": 9.0
+    },
+    {
+      "name": "bear crawl sled drag",
+      "equipment": "other",
+      "rating": 9.0
+    },
+    {
+      "name": "box squat with bands",
+      "equipment": "barbell",
+      "rating": 9.0
+    },
+    {
+      "name": "single-leg depth squat",
+      "equipment": "bands",
+      "rating": 9.0
+    },
+    {
+      "name": "weighted jump squat",
+      "equipment": "barbell",
+      "rating": 9.0
+    },
+    {
+      "name": "squat with chains",
+      "equipment": "barbell",
+      "rating": 9.0
+    },
+    {
+      "name": "bicycling",
+      "equipment": "other",
+      "rating": 8.9
+    },
+    {
+      "name": "barbell squat",
+      "equipment": "barbell",
+      "rating": 8.9
+    },
+    {
+      "name": "dumbbell goblet squat",
+      "equipment": "dumbbell",
+      "rating": 8.9
+    },
+    {
+      "name": "dumbbell squat",
+      "equipment": "dumbbell",
+      "rating": 8.9
+    },
+    {
+      "name": "barbell front squat",
+      "equipment": "barbell",
+      "rating": 8.9
+    },
+    {
+      "name": "side-to-side box skip",
+      "equipment": "body only",
+      "rating": 8.9
+    },
+    {
+      "name": "leg press",
+      "equipment": "machine",
+      "rating": 8.8
+    },
+    {
+      "name": "barbell forward lunge",
+      "equipment": "barbell",
+      "rating": 8.8
+    },
+    {
+      "name": "dumbbell lunges",
+      "equipment": "dumbbell",
+      "rating": 8.8
+    },
+    {
+      "name": "elliptical trainer",
+      "equipment": "machine",
+      "rating": 8.8
+    },
+    {
+      "name": "bodyweight squat",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "hex-bar deadlift",
+      "equipment": "other",
+      "rating": 8.8
+    },
+    {
+      "name": "narrow-stance leg press",
+      "equipment": "machine",
+      "rating": 8.8
+    },
+    {
+      "name": "narrow stance hack squats",
+      "equipment": "machine",
+      "rating": 8.8
+    },
+    {
+      "name": "smith machine box squat",
+      "equipment": "barbell",
+      "rating": 8.8
+    },
+    {
+      "name": "stairmaster",
+      "equipment": "machine",
+      "rating": 8.8
+    },
+    {
+      "name": "double leg butt kick",
+      "equipment": "bodyweight",
+      "rating": 8.8
+    },
+    {
+      "name": "broad jump",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "machine squat",
+      "equipment": "machine",
+      "rating": 8.8
+    },
+    {
+      "name": "burpee",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "dumbbell reverse lunge",
+      "equipment": "dumbbell",
+      "rating": 8.7
+    },
+    {
+      "name": "barbell step-up",
+      "equipment": "barbell",
+      "rating": 8.7
+    },
+    {
+      "name": "smith machine back squat",
+      "equipment": "machine",
+      "rating": 8.7
+    },
+    {
+      "name": "trail running/walking",
+      "equipment": "body only",
+      "rating": 8.7
+    },
+    {
+      "name": "goblet squat",
+      "equipment": "kettlebells",
+      "rating": 8.7
+    },
+    {
+      "name": "split squat with dumbbells",
+      "equipment": "dumbbell",
+      "rating": 8.6
+    },
+    {
+      "name": "leg extensions",
+      "equipment": "machine",
+      "rating": 8.5
+    },
+    {
+      "name": "barbell bulgarian split squat",
+      "equipment": "barbell",
+      "rating": 8.5
+    },
+    {
+      "name": "scissors jump",
+      "equipment": "body only",
+      "rating": 8.5
+    },
+    {
+      "name": "hang clean - below the knees",
+      "equipment": "barbell",
+      "rating": 8.5
+    },
+    {
+      "name": "jumping jack-",
+      "equipment": "body only",
+      "rating": 8.5
+    },
+    {
+      "name": "barbell hack squat",
+      "equipment": "barbell",
+      "rating": 8.5
+    },
+    {
+      "name": "hack squat",
+      "equipment": "barbell",
+      "rating": 8.4
+    },
+    {
+      "name": "arms-crossed jump squat",
+      "equipment": "body only",
+      "rating": 8.4
+    },
+    {
+      "name": "skating",
+      "equipment": "other",
+      "rating": 8.4
+    },
+    {
+      "name": "treadmill running",
+      "equipment": "machine",
+      "rating": 8.4
+    },
+    {
+      "name": "weighted sissy squat",
+      "equipment": "other",
+      "rating": 8.4
+    },
+    {
+      "name": "jog in place",
+      "equipment": "bodyweight",
+      "rating": 8.4
+    },
+    {
+      "name": "jog in place",
+      "equipment": "bodyweight",
+      "rating": 8.4
+    },
+    {
+      "name": "stationary bike",
+      "equipment": "machine",
+      "rating": 8.3
+    },
+    {
+      "name": "barbell thruster",
+      "equipment": "barbell",
+      "rating": 8.3
+    },
+    {
+      "name": "dumbbell sumo squat",
+      "equipment": "dumbbell",
+      "rating": 8.3
+    },
+    {
+      "name": "dumbbell seated box jump",
+      "equipment": "dumbbell",
+      "rating": 8.3
+    },
+    {
+      "name": "bodyweight reverse lunge",
+      "equipment": "body only",
+      "rating": 8.3
+    },
+    {
+      "name": "treadmill jogging",
+      "equipment": "machine",
+      "rating": 8.3
+    }
+  ],
+  "abdominals": [
+    {
+      "name": "landmine twist",
+      "equipment": "other",
+      "rating": 9.5
+    },
+    {
+      "name": "elbow plank",
+      "equipment": "body only",
+      "rating": 9.3
+    },
+    {
+      "name": "bottoms up",
+      "equipment": "body only",
+      "rating": 9.3
+    },
+    {
+      "name": "suspended ab fall-out",
+      "equipment": "other",
+      "rating": 9.3
+    },
+    {
+      "name": "dumbbell v-sit cross jab",
+      "equipment": "dumbbell",
+      "rating": 9.3
+    },
+    {
+      "name": "standing cable low-to-high twist",
+      "equipment": "cable",
+      "rating": 9.3
+    },
+    {
+      "name": "dumbbell spell caster",
+      "equipment": "dumbbell",
+      "rating": 9.3
+    },
+    {
+      "name": "decline reverse crunch",
+      "equipment": "other",
+      "rating": 9.2
+    },
+    {
+      "name": "spider crawl",
+      "equipment": "body only",
+      "rating": 9.2
+    },
+    {
+      "name": "cocoons",
+      "equipment": "body only",
+      "rating": 9.1
+    },
+    {
+      "name": "cross-body crunch",
+      "equipment": "body only",
+      "rating": 9.1
+    },
+    {
+      "name": "single-arm high-cable side bend",
+      "equipment": "cable",
+      "rating": 9.1
+    },
+    {
+      "name": "cocoons",
+      "equipment": "body only",
+      "rating": 9.1
+    },
+    {
+      "name": "cross-body crunch",
+      "equipment": "body only",
+      "rating": 9.1
+    },
+    {
+      "name": "elbow-to-knee crunch",
+      "equipment": "body only",
+      "rating": 9.1
+    },
+    {
+      "name": "decline crunch",
+      "equipment": "body only",
+      "rating": 9.0
+    },
+    {
+      "name": "hanging toes-to-bar",
+      "equipment": "body only",
+      "rating": 9.0
+    },
+    {
+      "name": "kneeling cable oblique crunch",
+      "equipment": "cable",
+      "rating": 9.0
+    },
+    {
+      "name": "hanging toes-to-bar",
+      "equipment": "body only",
+      "rating": 9.0
+    },
+    {
+      "name": "kneeling cable oblique crunch",
+      "equipment": "cable",
+      "rating": 9.0
+    },
+    {
+      "name": "hanging oblique knee raise",
+      "equipment": "body only",
+      "rating": 9.0
+    },
+    {
+      "name": "dumbbell suitcase crunch",
+      "equipment": "medicine ball",
+      "rating": 9.0
+    },
+    {
+      "name": "plate twist",
+      "equipment": "other",
+      "rating": 9.0
+    },
+    {
+      "name": "gorilla chin/crunch",
+      "equipment": "body only",
+      "rating": 9.0
+    },
+    {
+      "name": "kneeling cable crunch with alternating oblique twists",
+      "equipment": "cables",
+      "rating": 8.9
+    },
+    {
+      "name": "weighted crunches",
+      "equipment": "other",
+      "rating": 8.9
+    },
+    {
+      "name": "barbell roll-out",
+      "equipment": "barbell",
+      "rating": 8.9
+    },
+    {
+      "name": "kneeling cable crunch",
+      "equipment": "cable",
+      "rating": 8.9
+    },
+    {
+      "name": "exercise ball pull-in",
+      "equipment": "exercise ball",
+      "rating": 8.9
+    },
+    {
+      "name": "hanging leg raise",
+      "equipment": "body only",
+      "rating": 8.9
+    },
+    {
+      "name": "barbell ab rollout - on knees",
+      "equipment": "barbell",
+      "rating": 8.9
+    },
+    {
+      "name": "ab roller",
+      "equipment": "other",
+      "rating": 8.9
+    },
+    {
+      "name": "otis-up",
+      "equipment": "other",
+      "rating": 8.8
+    },
+    {
+      "name": "mountain climber",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "ab bicycle",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "3/4 sit-up",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "reverse crunch",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "crunches",
+      "equipment": "body only",
+      "rating": 8.7
+    },
+    {
+      "name": "dumbbell side bend",
+      "equipment": "dumbbell",
+      "rating": 8.6
+    },
+    {
+      "name": "captain's chair knee raise",
+      "equipment": "other",
+      "rating": 8.6
+    },
+    {
+      "name": "dead bug reach",
+      "equipment": "body only",
+      "rating": 8.6
+    },
+    {
+      "name": "rope crunch",
+      "equipment": "cable",
+      "rating": 8.6
+    },
+    {
+      "name": "sledgehammer swing",
+      "equipment": "other",
+      "rating": 8.6
+    },
+    {
+      "name": "standing cable crunch",
+      "equipment": "cable",
+      "rating": 8.6
+    },
+    {
+      "name": "crunch - hands overhead",
+      "equipment": "body only",
+      "rating": 8.6
+    },
+    {
+      "name": "sledgehammer swing",
+      "equipment": "other",
+      "rating": 8.6
+    },
+    {
+      "name": "standing cable crunch",
+      "equipment": "cable",
+      "rating": 8.6
+    },
+    {
+      "name": "v-up",
+      "equipment": "body only",
+      "rating": 8.5
+    },
+    {
+      "name": "decline oblique crunch",
+      "equipment": "bodyweight",
+      "rating": 8.5
+    },
+    {
+      "name": "decline bar press sit-up",
+      "equipment": "barbell",
+      "rating": 8.5
+    },
+    {
+      "name": "bosu ball cable crunch with side bends",
+      "equipment": "cable",
+      "rating": 8.5
+    },
+    {
+      "name": "stomach vacuum",
+      "equipment": "body only",
+      "rating": 8.5
+    },
+    {
+      "name": "exercise ball crunch",
+      "equipment": "exercise ball",
+      "rating": 8.4
+    },
+    {
+      "name": "russian twist",
+      "equipment": "body only",
+      "rating": 8.4
+    },
+    {
+      "name": "seated flat bench leg pull-in",
+      "equipment": "weight bench",
+      "rating": 8.4
+    },
+    {
+      "name": "seated flat bench leg pull-in",
+      "equipment": "weight bench",
+      "rating": 8.4
+    },
+    {
+      "name": "flat bench lying leg raise",
+      "equipment": "body only",
+      "rating": 8.4
+    },
+    {
+      "name": "pallof press",
+      "equipment": "other",
+      "rating": 8.4
+    },
+    {
+      "name": "knees tucked crunch",
+      "equipment": "body only",
+      "rating": 8.4
+    },
+    {
+      "name": "butt-ups",
+      "equipment": "body only",
+      "rating": 8.3
+    }
+  ],
+  "lats": [
+    {
+      "name": "weighted pull-up",
+      "equipment": "other",
+      "rating": 9.5
+    },
+    {
+      "name": "pullups",
+      "equipment": "body only",
+      "rating": 9.2
+    },
+    {
+      "name": "rocky pull-ups/pulldowns",
+      "equipment": "other",
+      "rating": 9.0
+    },
+    {
+      "name": "rocky pull-ups/pulldowns",
+      "equipment": "other",
+      "rating": 9.0
+    },
+    {
+      "name": "close-grip pull-down",
+      "equipment": "cable",
+      "rating": 8.9
+    },
+    {
+      "name": "pull-up",
+      "equipment": "body only",
+      "rating": 8.9
+    },
+    {
+      "name": "muscle up",
+      "equipment": "body only",
+      "rating": 8.9
+    },
+    {
+      "name": "shotgun row",
+      "equipment": "cable",
+      "rating": 8.9
+    },
+    {
+      "name": "close-grip front lat pulldown",
+      "equipment": "cable",
+      "rating": 8.8
+    },
+    {
+      "name": "v-bar pull-up",
+      "equipment": "bodyweight",
+      "rating": 8.8
+    },
+    {
+      "name": "rope climb",
+      "equipment": "body only",
+      "rating": 8.7
+    },
+    {
+      "name": "rope climb",
+      "equipment": "body only",
+      "rating": 8.7
+    },
+    {
+      "name": "wide-grip rear pull-up",
+      "equipment": "body only",
+      "rating": 8.7
+    },
+    {
+      "name": "straight-arm rope pull-down",
+      "equipment": "cable",
+      "rating": 8.7
+    },
+    {
+      "name": "lat pull-down",
+      "equipment": "cable",
+      "rating": 8.6
+    },
+    {
+      "name": "reverse-grip lat pull-down",
+      "equipment": "machine",
+      "rating": 8.5
+    },
+    {
+      "name": "gironda sternum chins",
+      "equipment": "other",
+      "rating": 8.5
+    },
+    {
+      "name": "side to side chins",
+      "equipment": "body only",
+      "rating": 8.4
+    },
+    {
+      "name": "machine seated row",
+      "equipment": "machine",
+      "rating": 8.4
+    },
+    {
+      "name": "straight-arm pulldown",
+      "equipment": "cable",
+      "rating": 8.3
+    }
+  ],
+  "middle back": [
+    {
+      "name": "t-bar row with handle",
+      "equipment": "other",
+      "rating": 9.5
+    },
+    {
+      "name": "reverse-grip bent-over row",
+      "equipment": "barbell",
+      "rating": 9.2
+    },
+    {
+      "name": "reverse-grip bent-over row",
+      "equipment": "barbell",
+      "rating": 9.2
+    },
+    {
+      "name": "one-arm dumbbell row",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "one-arm long bar row",
+      "equipment": "barbell",
+      "rating": 9.0
+    },
+    {
+      "name": "t-bar row",
+      "equipment": "other",
+      "rating": 8.9
+    },
+    {
+      "name": "bent over two-arm long bar row",
+      "equipment": "barbell",
+      "rating": 8.9
+    },
+    {
+      "name": "alternating sit-through with crunch",
+      "equipment": "other",
+      "rating": 8.9
+    },
+    {
+      "name": "rower",
+      "equipment": "machine",
+      "rating": 8.9
+    },
+    {
+      "name": "seated cable rows",
+      "equipment": "cable",
+      "rating": 8.8
+    },
+    {
+      "name": "incline dumbbell row",
+      "equipment": "dumbbell",
+      "rating": 8.8
+    },
+    {
+      "name": "bent over two-dumbbell row with palms in",
+      "equipment": "dumbbell",
+      "rating": 8.8
+    },
+    {
+      "name": "upside-down pull-up",
+      "equipment": "other",
+      "rating": 8.8
+    },
+    {
+      "name": "bent over barbell row",
+      "equipment": "barbell",
+      "rating": 8.7
+    },
+    {
+      "name": "single-arm cable seated row",
+      "equipment": "cable",
+      "rating": 8.5
+    },
+    {
+      "name": "kettlebell alternating renegade row",
+      "equipment": "kettlebells",
+      "rating": 8.5
+    },
+    {
+      "name": "man-maker",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "dumbbell bent-over row",
+      "equipment": "dumbbell",
+      "rating": 8.3
+    },
+    {
+      "name": "middle back shrug",
+      "equipment": "dumbbell",
+      "rating": 8.3
+    },
+    {
+      "name": "yates row reverse grip",
+      "equipment": "barbell",
+      "rating": 8.3
+    }
+  ],
+  "lower back": [
+    {
+      "name": "atlas stones",
+      "equipment": "other",
+      "rating": 9.5
+    },
+    {
+      "name": "barbell deficit deadlift",
+      "equipment": "barbell",
+      "rating": 9.4
+    },
+    {
+      "name": "back extension",
+      "equipment": "body only",
+      "rating": 9.1
+    },
+    {
+      "name": "back extension",
+      "equipment": "body only",
+      "rating": 9.1
+    },
+    {
+      "name": "axle deadlift",
+      "equipment": "other",
+      "rating": 9.1
+    },
+    {
+      "name": "hyperextensions with no hyperextension bench",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "deadlift with bands",
+      "equipment": "barbell",
+      "rating": 8.7
+    },
+    {
+      "name": "deadlift with chains",
+      "equipment": "barbell",
+      "rating": 8.6
+    },
+    {
+      "name": "rack pull with bands",
+      "equipment": "barbell",
+      "rating": 8.5
+    },
+    {
+      "name": "rack pull with bands",
+      "equipment": "barbell",
+      "rating": 8.5
+    },
+    {
+      "name": "superman",
+      "equipment": "body only",
+      "rating": 8.3
+    }
+  ],
+  "shoulders": [
+    {
+      "name": "dumbbell front raise to lateral raise",
+      "equipment": "dumbbell",
+      "rating": 9.5
+    },
+    {
+      "name": "clean and press",
+      "equipment": "barbell",
+      "rating": 9.4
+    },
+    {
+      "name": "single-arm palm-in dumbbell shoulder press",
+      "equipment": "dumbbell",
+      "rating": 9.4
+    },
+    {
+      "name": "clean and jerk",
+      "equipment": "barbell",
+      "rating": 9.3
+    },
+    {
+      "name": "single-arm kettlebell push-press",
+      "equipment": "kettlebells",
+      "rating": 9.3
+    },
+    {
+      "name": "military press",
+      "equipment": "barbell",
+      "rating": 9.3
+    },
+    {
+      "name": "standing palms-in shoulder press",
+      "equipment": "dumbbell",
+      "rating": 9.3
+    },
+    {
+      "name": "seated barbell shoulder press",
+      "equipment": "barbell",
+      "rating": 9.2
+    },
+    {
+      "name": "seated dumbbell press",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "standing dumbbell shoulder press",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "seated dumbbell press",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "standing dumbbell shoulder press",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "single-arm lateral raise",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "power partials",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "incline dumbbell reverse fly",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "overhead dumbbell front raise",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "seated dumbbell shoulder press",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "alternating standing shoulder press",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "single-arm incline rear delt raise",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "alternating dumbbell front raise",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "snatch-grip behind-the-neck overhead press",
+      "equipment": "barbell",
+      "rating": 9.0
+    },
+    {
+      "name": "single-arm incline rear delt raise",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "alternating dumbbell front raise",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "snatch-grip behind-the-neck overhead press",
+      "equipment": "barbell",
+      "rating": 9.0
+    },
+    {
+      "name": "car driver",
+      "equipment": "other",
+      "rating": 9.0
+    },
+    {
+      "name": "alternating deltoid raise",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "single-dumbbell front raise",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "arnold press",
+      "equipment": "dumbbell",
+      "rating": 8.9
+    },
+    {
+      "name": "smith machine shoulder press",
+      "equipment": "machine",
+      "rating": 8.9
+    },
+    {
+      "name": "machine shoulder press",
+      "equipment": "machine",
+      "rating": 8.9
+    },
+    {
+      "name": "front plate raise",
+      "equipment": "other",
+      "rating": 8.9
+    },
+    {
+      "name": "single-arm standing shoulder press",
+      "equipment": "dumbbell",
+      "rating": 8.8
+    },
+    {
+      "name": "dumbbell front raise",
+      "equipment": "dumbbell",
+      "rating": 8.8
+    },
+    {
+      "name": "bent-over dumbbell rear delt row",
+      "equipment": "dumbbell",
+      "rating": 8.7
+    },
+    {
+      "name": "external rotation with cable",
+      "equipment": "cables",
+      "rating": 8.7
+    },
+    {
+      "name": "handstand push-up",
+      "equipment": "body only",
+      "rating": 8.7
+    },
+    {
+      "name": "incline dumbbell front raise",
+      "equipment": "dumbbell",
+      "rating": 8.7
+    },
+    {
+      "name": "single-arm cable front raise",
+      "equipment": "cable",
+      "rating": 8.7
+    },
+    {
+      "name": "two-arm kettlebell military press",
+      "equipment": "kettlebells",
+      "rating": 8.7
+    },
+    {
+      "name": "incline dumbbell front raise",
+      "equipment": "dumbbell",
+      "rating": 8.7
+    },
+    {
+      "name": "standing bradford press",
+      "equipment": "barbell",
+      "rating": 8.7
+    },
+    {
+      "name": "barbell shoulder press",
+      "equipment": "barbell",
+      "rating": 8.7
+    },
+    {
+      "name": "side lateral raise",
+      "equipment": "dumbbell",
+      "rating": 8.6
+    },
+    {
+      "name": "battle ropes",
+      "equipment": "other",
+      "rating": 8.6
+    },
+    {
+      "name": "alternating kettlebell press",
+      "equipment": "kettlebells",
+      "rating": 8.6
+    },
+    {
+      "name": "single-arm kettlebell snatch",
+      "equipment": "kettlebells",
+      "rating": 8.6
+    },
+    {
+      "name": "kettlebell turkish get-up (squat style)",
+      "equipment": "bodyweight",
+      "rating": 8.6
+    },
+    {
+      "name": "cable internal rotation",
+      "equipment": "cable",
+      "rating": 8.6
+    },
+    {
+      "name": "single-arm kettlebell snatch",
+      "equipment": "kettlebells",
+      "rating": 8.6
+    },
+    {
+      "name": "seated face pull",
+      "equipment": "cable",
+      "rating": 8.5
+    },
+    {
+      "name": "seated face pull",
+      "equipment": "cable",
+      "rating": 8.5
+    },
+    {
+      "name": "dumbbell external shoulder rotation",
+      "equipment": "dumbbell",
+      "rating": 8.5
+    },
+    {
+      "name": "single-arm bent-over cable rear delt fly",
+      "equipment": "cable",
+      "rating": 8.5
+    },
+    {
+      "name": "single-arm incline lateral raise",
+      "equipment": "dumbbell",
+      "rating": 8.5
+    },
+    {
+      "name": "barbell rear delt bent-over row",
+      "equipment": "barbell",
+      "rating": 8.5
+    },
+    {
+      "name": "seated cable shoulder press",
+      "equipment": "cable",
+      "rating": 8.5
+    },
+    {
+      "name": "seated rear delt fly",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "standing face pull",
+      "equipment": "cable",
+      "rating": 8.4
+    },
+    {
+      "name": "standing cable rear delt row",
+      "equipment": "cable",
+      "rating": 8.4
+    },
+    {
+      "name": "side wrist pull",
+      "equipment": "bodyweight",
+      "rating": 8.4
+    },
+    {
+      "name": "single-arm kettlebell clean and jerk",
+      "equipment": "kettlebells",
+      "rating": 8.4
+    },
+    {
+      "name": "dumbbell raise",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "dumbbell raise",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "barbell upright row",
+      "equipment": "barbell",
+      "rating": 8.3
+    },
+    {
+      "name": "seated side lateral raise",
+      "equipment": "dumbbell",
+      "rating": 8.3
+    },
+    {
+      "name": "dumbbell lying rear lateral raise",
+      "equipment": "dumbbell",
+      "rating": 8.3
+    },
+    {
+      "name": "incline face-down bar front raise",
+      "equipment": "e-z curl bar",
+      "rating": 8.3
+    }
+  ],
+  "biceps": [
+    {
+      "name": "incline hammer curls",
+      "equipment": "dumbbell",
+      "rating": 9.5
+    },
+    {
+      "name": "wide-grip barbell curl",
+      "equipment": "barbell",
+      "rating": 9.3
+    },
+    {
+      "name": "ez-bar spider curl",
+      "equipment": "barbell",
+      "rating": 9.2
+    },
+    {
+      "name": "hammer curls",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "hammer curls",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "ez-bar curl",
+      "equipment": "e-z curl bar",
+      "rating": 9.1
+    },
+    {
+      "name": "zottman curl",
+      "equipment": "bodyweight",
+      "rating": 9.1
+    },
+    {
+      "name": "biceps curl to shoulder press",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "barbell curl",
+      "equipment": "barbell",
+      "rating": 9.0
+    },
+    {
+      "name": "concentration curl",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "flexor incline dumbbell curls",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "machine bicep curl",
+      "equipment": "machine",
+      "rating": 9.0
+    },
+    {
+      "name": "flexor incline dumbbell curls",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "machine bicep curl",
+      "equipment": "machine",
+      "rating": 9.0
+    },
+    {
+      "name": "overhead cable curl",
+      "equipment": "cable",
+      "rating": 9.0
+    },
+    {
+      "name": "dumbbell bicep curl",
+      "equipment": "dumbbell",
+      "rating": 8.9
+    },
+    {
+      "name": "close-grip ez-bar curl",
+      "equipment": "barbell",
+      "rating": 8.9
+    },
+    {
+      "name": "cross-body hammer curl",
+      "equipment": "dumbbell",
+      "rating": 8.9
+    },
+    {
+      "name": "preacher curl",
+      "equipment": "barbell",
+      "rating": 8.8
+    },
+    {
+      "name": "barbell curls lying against an incline",
+      "equipment": "barbell",
+      "rating": 8.8
+    },
+    {
+      "name": "seated close-grip concentration barbell curl",
+      "equipment": "barbell",
+      "rating": 8.8
+    },
+    {
+      "name": "reverse barbell preacher curls",
+      "equipment": "e-z curl bar",
+      "rating": 8.8
+    },
+    {
+      "name": "standing one-arm cable curl",
+      "equipment": "cable",
+      "rating": 8.8
+    },
+    {
+      "name": "dumbbell alternate bicep curl",
+      "equipment": "dumbbell",
+      "rating": 8.7
+    },
+    {
+      "name": "single-arm dumbbell preacher curl",
+      "equipment": "dumbbell",
+      "rating": 8.7
+    },
+    {
+      "name": "alternate incline dumbbell curl",
+      "equipment": "dumbbell",
+      "rating": 8.7
+    },
+    {
+      "name": "single-arm dumbbell preacher curl",
+      "equipment": "dumbbell",
+      "rating": 8.7
+    },
+    {
+      "name": "standing concentration curl",
+      "equipment": "dumbbell",
+      "rating": 8.7
+    },
+    {
+      "name": "reverse cable curl",
+      "equipment": "cable",
+      "rating": 8.7
+    },
+    {
+      "name": "alternating incline dumbbell biceps curl",
+      "equipment": "dumbbell",
+      "rating": 8.6
+    },
+    {
+      "name": "alternate hammer curl",
+      "equipment": "dumbbell",
+      "rating": 8.6
+    },
+    {
+      "name": "seated dumbbell biceps curl",
+      "equipment": "dumbbell",
+      "rating": 8.6
+    },
+    {
+      "name": "preacher hammer dumbbell curl",
+      "equipment": "dumbbell",
+      "rating": 8.6
+    },
+    {
+      "name": "standing one-arm dumbbell curl over incline bench",
+      "equipment": "bodyweight",
+      "rating": 8.6
+    },
+    {
+      "name": "close-grip barbell curl",
+      "equipment": "barbell",
+      "rating": 8.6
+    },
+    {
+      "name": "standing one-arm dumbbell curl over incline bench",
+      "equipment": "bodyweight",
+      "rating": 8.6
+    },
+    {
+      "name": "standing biceps cable curl",
+      "equipment": "cable",
+      "rating": 8.5
+    },
+    {
+      "name": "drag curl",
+      "equipment": "barbell",
+      "rating": 8.5
+    },
+    {
+      "name": "drag curl",
+      "equipment": "barbell",
+      "rating": 8.5
+    },
+    {
+      "name": "dumbbell preacher curl",
+      "equipment": "dumbbell",
+      "rating": 8.3
+    }
+  ],
+  "glutes": [
+    {
+      "name": "barbell glute bridge",
+      "equipment": "barbell",
+      "rating": 9.4
+    },
+    {
+      "name": "barbell hip thrust",
+      "equipment": "barbell",
+      "rating": 9.1
+    },
+    {
+      "name": "single-leg cable hip extension",
+      "equipment": "cable",
+      "rating": 9.0
+    },
+    {
+      "name": "glute bridge",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "single-leg glute bridge",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "step-up with knee raise",
+      "equipment": "body only",
+      "rating": 8.7
+    },
+    {
+      "name": "step-up with knee raise",
+      "equipment": "body only",
+      "rating": 8.7
+    },
+    {
+      "name": "kettlebell thruster",
+      "equipment": "kettlebells",
+      "rating": 8.6
+    },
+    {
+      "name": "kneeling squat",
+      "equipment": "barbell",
+      "rating": 8.6
+    },
+    {
+      "name": "flutter kicks",
+      "equipment": "weight bench",
+      "rating": 8.3
+    },
+    {
+      "name": "glute kickback",
+      "equipment": "body only",
+      "rating": 8.3
+    }
+  ],
+  "triceps": [
+    {
+      "name": "triceps dip",
+      "equipment": "body only",
+      "rating": 9.4
+    },
+    {
+      "name": "decline ez-bar skullcrusher",
+      "equipment": "e-z curl bar",
+      "rating": 9.3
+    },
+    {
+      "name": "dumbbell floor press",
+      "equipment": "dumbbell",
+      "rating": 9.3
+    },
+    {
+      "name": "cable v-bar push-down",
+      "equipment": "cable",
+      "rating": 9.1
+    },
+    {
+      "name": "weighted bench dip",
+      "equipment": "body only",
+      "rating": 9.1
+    },
+    {
+      "name": "ez-bar skullcrusher",
+      "equipment": "e-z curl bar",
+      "rating": 9.0
+    },
+    {
+      "name": "reverse grip triceps pushdown",
+      "equipment": "cable",
+      "rating": 9.0
+    },
+    {
+      "name": "reverse grip triceps pushdown",
+      "equipment": "cable",
+      "rating": 9.0
+    },
+    {
+      "name": "push-ups - close triceps position",
+      "equipment": "body only",
+      "rating": 9.0
+    },
+    {
+      "name": "kneeling cable triceps extension",
+      "equipment": "cable",
+      "rating": 9.0
+    },
+    {
+      "name": "single-arm cable triceps extension",
+      "equipment": "cable",
+      "rating": 8.9
+    },
+    {
+      "name": "triceps pushdown - rope attachment",
+      "equipment": "cables",
+      "rating": 8.9
+    },
+    {
+      "name": "seated triceps press",
+      "equipment": "dumbbell",
+      "rating": 8.9
+    },
+    {
+      "name": "incline ez-bar skullcrusher",
+      "equipment": "barbell",
+      "rating": 8.9
+    },
+    {
+      "name": "decline close-grip bench to skull crusher",
+      "equipment": "barbell",
+      "rating": 8.9
+    },
+    {
+      "name": "tricep dumbbell kickback",
+      "equipment": "dumbbell",
+      "rating": 8.8
+    },
+    {
+      "name": "dip machine",
+      "equipment": "cable",
+      "rating": 8.8
+    },
+    {
+      "name": "standing dumbbell triceps extension",
+      "equipment": "dumbbell",
+      "rating": 8.8
+    },
+    {
+      "name": "parallel bar dip",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "ring dip",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "double-arm triceps kick-back",
+      "equipment": "dumbbell",
+      "rating": 8.8
+    },
+    {
+      "name": "feet-elevated bench dip",
+      "equipment": "body only",
+      "rating": 8.7
+    },
+    {
+      "name": "bench press - powerlifting",
+      "equipment": "barbell",
+      "rating": 8.7
+    },
+    {
+      "name": "behind-the-head skullcrusher",
+      "equipment": "barbell",
+      "rating": 8.7
+    },
+    {
+      "name": "triceps pushdown",
+      "equipment": "cable",
+      "rating": 8.6
+    },
+    {
+      "name": "low cable overhead triceps extension",
+      "equipment": "cable",
+      "rating": 8.6
+    },
+    {
+      "name": "standing barbell overhead triceps extension",
+      "equipment": "barbell",
+      "rating": 8.6
+    },
+    {
+      "name": "lying cable triceps extension",
+      "equipment": "cable",
+      "rating": 8.6
+    },
+    {
+      "name": "standing barbell overhead triceps extension",
+      "equipment": "barbell",
+      "rating": 8.6
+    },
+    {
+      "name": "lying cable triceps extension",
+      "equipment": "cable",
+      "rating": 8.6
+    },
+    {
+      "name": "single-arm dumbbell triceps extension",
+      "equipment": "dumbbell",
+      "rating": 8.5
+    },
+    {
+      "name": "single-arm dumbbell triceps extension",
+      "equipment": "dumbbell",
+      "rating": 8.5
+    },
+    {
+      "name": "decline dumbbell triceps extension",
+      "equipment": "dumbbell",
+      "rating": 8.5
+    },
+    {
+      "name": "dumbbell skullcrusher",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "band skull crusher",
+      "equipment": "bodyweight",
+      "rating": 8.4
+    },
+    {
+      "name": "one arm pronated dumbbell triceps extension",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "one arm supinated dumbbell triceps extension",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "one arm supinated dumbbell triceps extension",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "standing one-arm dumbbell triceps extension",
+      "equipment": "dumbbells",
+      "rating": 8.3
+    },
+    {
+      "name": "reverse-grip bench press",
+      "equipment": "barbell",
+      "rating": 8.3
+    },
+    {
+      "name": "chain handle extension",
+      "equipment": "other",
+      "rating": 8.3
+    }
+  ],
+  "hamstrings": [
+    {
+      "name": "barbell deadlift",
+      "equipment": "barbell",
+      "rating": 9.4
+    },
+    {
+      "name": "romanian deadlift with dumbbells",
+      "equipment": "dumbbell",
+      "rating": 9.4
+    },
+    {
+      "name": "clean deadlift",
+      "equipment": "barbell",
+      "rating": 9.4
+    },
+    {
+      "name": "sumo deadlift",
+      "equipment": "barbell",
+      "rating": 9.3
+    },
+    {
+      "name": "romanian deadlift from deficit",
+      "equipment": "barbell",
+      "rating": 9.2
+    },
+    {
+      "name": "power snatch",
+      "equipment": "barbell",
+      "rating": 9.2
+    },
+    {
+      "name": "power clean from blocks",
+      "equipment": "barbell",
+      "rating": 9.2
+    },
+    {
+      "name": "natural glute ham raise",
+      "equipment": "body only",
+      "rating": 9.1
+    },
+    {
+      "name": "glute ham raise-",
+      "equipment": "bodyweight",
+      "rating": 9.1
+    },
+    {
+      "name": "snatch deadlift",
+      "equipment": "barbell",
+      "rating": 8.9
+    },
+    {
+      "name": "lying leg curls",
+      "equipment": "machine",
+      "rating": 8.9
+    },
+    {
+      "name": "stiff-legged dumbbell deadlift",
+      "equipment": "dumbbell",
+      "rating": 8.8
+    },
+    {
+      "name": "exercise ball leg curl",
+      "equipment": "exercise ball",
+      "rating": 8.8
+    },
+    {
+      "name": "kettlebell pass-through lunge",
+      "equipment": "kettlebells",
+      "rating": 8.7
+    },
+    {
+      "name": "power clean",
+      "equipment": "barbell",
+      "rating": 8.7
+    },
+    {
+      "name": "hang snatch",
+      "equipment": "barbell",
+      "rating": 8.7
+    },
+    {
+      "name": "kettlebell one-legged deadlift",
+      "equipment": "kettlebells",
+      "rating": 8.6
+    },
+    {
+      "name": "single-arm kettlebell clean",
+      "equipment": "kettlebells",
+      "rating": 8.6
+    },
+    {
+      "name": "box jump",
+      "equipment": "other",
+      "rating": 8.6
+    },
+    {
+      "name": "box jump",
+      "equipment": "other",
+      "rating": 8.6
+    },
+    {
+      "name": "wide stance stiff legs",
+      "equipment": "barbell",
+      "rating": 8.5
+    },
+    {
+      "name": "clean",
+      "equipment": "barbell",
+      "rating": 8.5
+    },
+    {
+      "name": "good morning",
+      "equipment": "barbell",
+      "rating": 8.5
+    },
+    {
+      "name": "glute ham raise",
+      "equipment": "machine",
+      "rating": 8.4
+    },
+    {
+      "name": "standing leg swing",
+      "equipment": "body only",
+      "rating": 8.4
+    },
+    {
+      "name": "barbell stiff-legged deadlift",
+      "equipment": "barbell",
+      "rating": 8.3
+    },
+    {
+      "name": "band good morning (pull through)",
+      "equipment": "bands",
+      "rating": 8.3
+    },
+    {
+      "name": "linear acceleration wall drill",
+      "equipment": "body only",
+      "rating": 8.3
+    }
+  ],
+  "neck": [
+    {
+      "name": "lying face down plate neck resistance",
+      "equipment": "other",
+      "rating": 9.3
+    },
+    {
+      "name": "lying face up plate neck resistance",
+      "equipment": "other",
+      "rating": 8.4
+    }
+  ],
+  "chest": [
+    {
+      "name": "dumbbell bench press",
+      "equipment": "dumbbell",
+      "rating": 9.2
+    },
+    {
+      "name": "pushups",
+      "equipment": "body only",
+      "rating": 9.2
+    },
+    {
+      "name": "close-grip bench press",
+      "equipment": "barbell",
+      "rating": 9.1
+    },
+    {
+      "name": "dumbbell flyes",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "incline dumbbell bench press",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "low-cable cross-over",
+      "equipment": "cable",
+      "rating": 9.1
+    },
+    {
+      "name": "close-grip bench press",
+      "equipment": "barbell",
+      "rating": 9.1
+    },
+    {
+      "name": "dumbbell flyes",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "incline dumbbell bench press",
+      "equipment": "dumbbell",
+      "rating": 9.1
+    },
+    {
+      "name": "barbell bench press - medium grip",
+      "equipment": "barbell",
+      "rating": 9.0
+    },
+    {
+      "name": "chest dip",
+      "equipment": "other",
+      "rating": 9.0
+    },
+    {
+      "name": "decline dumbbell flyes",
+      "equipment": "dumbbell",
+      "rating": 9.0
+    },
+    {
+      "name": "bodyweight flyes",
+      "equipment": "e-z curl bar",
+      "rating": 9.0
+    },
+    {
+      "name": "incline cable chest fly",
+      "equipment": "cable",
+      "rating": 9.0
+    },
+    {
+      "name": "decline barbell bench press",
+      "equipment": "barbell",
+      "rating": 8.9
+    },
+    {
+      "name": "wide-grip bench press",
+      "equipment": "barbell",
+      "rating": 8.9
+    },
+    {
+      "name": "wide-grip decline barbell bench press",
+      "equipment": "barbell",
+      "rating": 8.9
+    },
+    {
+      "name": "reverse-grip incline dumbbell bench press",
+      "equipment": "dumbbell",
+      "rating": 8.9
+    },
+    {
+      "name": "cable crossover",
+      "equipment": "cable",
+      "rating": 8.8
+    },
+    {
+      "name": "barbell incline bench press medium-grip",
+      "equipment": "barbell",
+      "rating": 8.8
+    },
+    {
+      "name": "incline dumbbell flyes",
+      "equipment": "dumbbell",
+      "rating": 8.8
+    },
+    {
+      "name": "drop push",
+      "equipment": "other",
+      "rating": 8.8
+    },
+    {
+      "name": "close-grip ez-bar bench press",
+      "equipment": "e-z curl bar",
+      "rating": 8.8
+    },
+    {
+      "name": "incline push-up",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "neck press",
+      "equipment": "barbell",
+      "rating": 8.8
+    },
+    {
+      "name": "incline cable chest press",
+      "equipment": "cable",
+      "rating": 8.7
+    },
+    {
+      "name": "neutral-grip dumbbell bench press",
+      "equipment": "dumbbell",
+      "rating": 8.7
+    },
+    {
+      "name": "cable chest press",
+      "equipment": "cable",
+      "rating": 8.7
+    },
+    {
+      "name": "hands-elevated push-up",
+      "equipment": "body only",
+      "rating": 8.7
+    },
+    {
+      "name": "decline push-up",
+      "equipment": "body only",
+      "rating": 8.6
+    },
+    {
+      "name": "single-arm cable cross-over",
+      "equipment": "cable",
+      "rating": 8.6
+    },
+    {
+      "name": "single-arm push-up",
+      "equipment": "body only",
+      "rating": 8.6
+    },
+    {
+      "name": "leverage incline chest press",
+      "equipment": "machine",
+      "rating": 8.6
+    },
+    {
+      "name": "close push-up to wide push-up",
+      "equipment": "body only",
+      "rating": 8.5
+    },
+    {
+      "name": "butterfly",
+      "equipment": "machine",
+      "rating": 8.5
+    },
+    {
+      "name": "decline dumbbell bench press",
+      "equipment": "dumbbell",
+      "rating": 8.5
+    },
+    {
+      "name": "single-arm kettlebell row",
+      "equipment": "dumbbell",
+      "rating": 8.5
+    },
+    {
+      "name": "close push-up to wide push-up",
+      "equipment": "body only",
+      "rating": 8.5
+    },
+    {
+      "name": "butterfly",
+      "equipment": "machine",
+      "rating": 8.5
+    },
+    {
+      "name": "hammer grip incline db bench press",
+      "equipment": "dumbbell",
+      "rating": 8.5
+    },
+    {
+      "name": "wide-grip hands-elevated push-up",
+      "equipment": "body only",
+      "rating": 8.5
+    },
+    {
+      "name": "push-ups with feet on an exercise ball",
+      "equipment": "body only",
+      "rating": 8.5
+    },
+    {
+      "name": "feet-elevated push-up",
+      "equipment": "body only",
+      "rating": 8.5
+    },
+    {
+      "name": "leverage chest press",
+      "equipment": "machine",
+      "rating": 8.5
+    },
+    {
+      "name": "straight-arm dumbbell pull-over",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "decline smith press",
+      "equipment": "machine",
+      "rating": 8.4
+    },
+    {
+      "name": "isometric wipers",
+      "equipment": "body only",
+      "rating": 8.4
+    },
+    {
+      "name": "cable cross-over",
+      "equipment": "cable",
+      "rating": 8.4
+    },
+    {
+      "name": "incline dumbbell bench with palms facing in",
+      "equipment": "dumbbell",
+      "rating": 8.4
+    },
+    {
+      "name": "clock push-up",
+      "equipment": "body only",
+      "rating": 8.4
+    },
+    {
+      "name": "smith machine bench press",
+      "equipment": "machine",
+      "rating": 8.3
+    },
+    {
+      "name": "front raise and pullover",
+      "equipment": "barbell",
+      "rating": 8.3
+    },
+    {
+      "name": "leverage decline chest press",
+      "equipment": "machine",
+      "rating": 8.3
+    }
+  ],
+  "traps": [
+    {
+      "name": "smith machine shrug",
+      "equipment": "machine",
+      "rating": 9.2
+    },
+    {
+      "name": "leverage shrug",
+      "equipment": "machine",
+      "rating": 9.1
+    },
+    {
+      "name": "standing dumbbell shrug",
+      "equipment": "dumbbell",
+      "rating": 8.7
+    },
+    {
+      "name": "standing dumbbell upright row",
+      "equipment": "dumbbell",
+      "rating": 8.7
+    },
+    {
+      "name": "kettlebell sumo deadlift high pull",
+      "equipment": "kettlebells",
+      "rating": 8.7
+    },
+    {
+      "name": "calf-machine shoulder shrug",
+      "equipment": "machine",
+      "rating": 8.7
+    },
+    {
+      "name": "barbell shrug",
+      "equipment": "barbell",
+      "rating": 8.4
+    },
+    {
+      "name": "barbell shrug",
+      "equipment": "barbell",
+      "rating": 8.4
+    }
+  ],
+  "calves": [
+    {
+      "name": "smith machine calf raise",
+      "equipment": "machine",
+      "rating": 9.2
+    },
+    {
+      "name": "standing calf raises",
+      "equipment": "machine",
+      "rating": 9.0
+    },
+    {
+      "name": "seated calf raise",
+      "equipment": "machine",
+      "rating": 8.7
+    },
+    {
+      "name": "calf press on the leg press machine",
+      "equipment": "machine",
+      "rating": 8.7
+    },
+    {
+      "name": "rocking standing calf raise",
+      "equipment": "barbell",
+      "rating": 8.7
+    },
+    {
+      "name": "calf press",
+      "equipment": "machine",
+      "rating": 8.5
+    }
+  ],
+  "abductors": [
+    {
+      "name": "hip circles (prone)",
+      "equipment": "bodyweight",
+      "rating": 9.2
+    },
+    {
+      "name": "hip circles (prone)",
+      "equipment": "bodyweight",
+      "rating": 9.2
+    },
+    {
+      "name": "standing hip circles",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "clam",
+      "equipment": "bodyweight",
+      "rating": 8.8
+    }
+  ],
+  "adductors": [
+    {
+      "name": "thigh adductor",
+      "equipment": "machine",
+      "rating": 9.0
+    },
+    {
+      "name": "groiners",
+      "equipment": "body only",
+      "rating": 8.8
+    },
+    {
+      "name": "band hip adductions",
+      "equipment": "bands",
+      "rating": 8.6
+    }
+  ]
+}

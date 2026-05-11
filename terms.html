@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AIPT — Terms & Conditions</title>
+    <meta name="description" content="Terms & Conditions for AIPT" />
+    <style>
+      :root {
+        --bg: #f6f7fb;
+        --surface: #ffffff;
+        --text: #111315;
+        --muted: rgba(17, 19, 21, 0.65);
+        --border: rgba(17, 19, 21, 0.12);
+        --brand: #111315;
+        --shadow: 0 10px 30px rgba(17, 19, 21, 0.08);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #0f1114;
+          --surface: #1c1f24;
+          --text: #e5e7eb;
+          --muted: rgba(229, 231, 235, 0.7);
+          --border: rgba(229, 231, 235, 0.12);
+          --brand: #e5e7eb;
+          --shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+        }
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+        background: var(--bg);
+        color: var(--text);
+        line-height: 1.55;
+      }
+
+      .wrap {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 28px 16px 48px;
+      }
+
+      header {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 12px;
+        margin-bottom: 16px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .logo {
+        width: 40px;
+        height: 40px;
+        border-radius: 12px;
+        background: var(--brand);
+        display: grid;
+        place-items: center;
+        color: var(--bg);
+        font-weight: 800;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 20px;
+        letter-spacing: -0.2px;
+      }
+
+      .subtitle {
+        margin: 4px 0 0;
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      .card {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        box-shadow: var(--shadow);
+        padding: 18px;
+      }
+
+      .lang {
+        display: flex;
+        gap: 8px;
+      }
+
+      button {
+        border: 1px solid var(--border);
+        background: transparent;
+        color: var(--text);
+        padding: 10px 12px;
+        border-radius: 999px;
+        font-size: 14px;
+        cursor: pointer;
+      }
+
+      button[aria-pressed="true"] {
+        background: rgba(17, 19, 21, 0.08);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        button[aria-pressed="true"] {
+          background: rgba(229, 231, 235, 0.12);
+        }
+      }
+
+      .content {
+        margin-top: 14px;
+      }
+
+      .content h2 {
+        margin: 18px 0 8px;
+        font-size: 16px;
+      }
+
+      .content p {
+        margin: 0 0 10px;
+      }
+
+      .content ul {
+        margin: 0 0 10px 18px;
+      }
+
+      .muted {
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .rtl {
+        direction: rtl;
+        text-align: right;
+      }
+
+      footer {
+        margin-top: 14px;
+        color: var(--muted);
+        font-size: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <div class="brand">
+          <div class="logo">AP</div>
+          <div>
+            <h1>Terms &amp; Conditions</h1>
+            <div class="subtitle">AIPT • Last updated: 2026-01-09</div>
+          </div>
+        </div>
+
+        <div class="lang" role="group" aria-label="Language">
+          <button id="btn-en" aria-pressed="true" type="button">
+            English
+          </button>
+          <button id="btn-ar" aria-pressed="false" type="button">
+            العربية
+          </button>
+        </div>
+      </header>
+
+      <div class="card">
+        <div id="content-en" class="content">
+          <p class="muted">
+            Please review the terms that govern the use of this app.
+          </p>
+
+          <h2>1. Acceptance</h2>
+          <p>
+            By using AIPT (the “App”), you agree to these Terms &amp;
+            Conditions (“Terms”). If you do not agree, do not use the App.
+          </p>
+
+          <h2>2. Intended Use (Fitness &amp; Informational Only)</h2>
+          <p>
+            The App provides fitness-related information and estimates (including
+            calorie estimates) for general informational purposes only. It is not
+            medical advice, diagnosis, or treatment.
+          </p>
+
+          <h2>3. Health &amp; Safety Disclaimer</h2>
+          <p>
+            You are responsible for your own health and safety. Consult a
+            qualified professional before starting any exercise program,
+            especially if you have any medical condition or injury. Stop
+            exercising and seek help if you experience pain, dizziness, shortness
+            of breath, or any concerning symptoms.
+          </p>
+
+          <h2>4. Accuracy of Outputs</h2>
+          <p>
+            The App may use on-device machine learning to generate predictions
+            and suggestions. Outputs can be inaccurate, incomplete, or unsuitable
+            for your situation. You agree not to rely solely on the App for
+            decisions affecting your health.
+          </p>
+
+          <h2>5. Privacy &amp; Data</h2>
+          <p>
+            The App may store certain settings and workout history locally on
+            your device. Please review the Privacy Policy (if provided) for
+            details.
+          </p>
+
+          <h2>6. User Responsibilities</h2>
+          <p>You agree to:</p>
+          <ul>
+            <li>Provide accurate information when asked.</li>
+            <li>Use the App in a lawful manner.</li>
+            <li>
+              Not misuse, reverse engineer, or attempt to disrupt the App.
+            </li>
+          </ul>
+
+          <h2>7. Intellectual Property</h2>
+          <p>
+            All App content, designs, trademarks, and code are owned by the App’s
+            owners/licensors and are protected by applicable laws.
+          </p>
+
+          <h2>8. Third‑Party Services</h2>
+          <p>
+            Some features may rely on third-party libraries or platform services.
+            Their terms may also apply.
+          </p>
+
+          <h2>9. Limitation of Liability</h2>
+          <p>
+            To the maximum extent permitted by law, the App and its owners are
+            not liable for any indirect, incidental, special, consequential, or
+            punitive damages, or for any loss arising from your use of the App.
+          </p>
+
+          <h2>10. Changes to the Terms</h2>
+          <p>
+            We may update these Terms from time to time. Continued use of the App
+            after changes means you accept the updated Terms.
+          </p>
+
+          <h2>11. Contact</h2>
+          <p>
+            If you have questions about these Terms, contact the app
+            publisher/support email provided in the store listing.
+          </p>
+        </div>
+
+        <div id="content-ar" class="content rtl" style="display: none">
+          <p class="muted">يرجى مراجعة الشروط التي تنظّم استخدام هذا التطبيق.</p>
+
+          <h2>1. القبول</h2>
+          <p>
+            باستخدامك لتطبيق AIPT (“التطبيق”) فإنك توافق على هذه الشروط
+            والأحكام (“الشروط”). إذا لم توافق، يرجى عدم استخدام التطبيق.
+          </p>
+
+          <h2>2. الاستخدام المقصود (للياقة والمعلومات فقط)</h2>
+          <p>
+            يوفر التطبيق معلومات وتقديرات متعلقة باللياقة (بما في ذلك تقديرات
+            السعرات) لأغراض معلوماتية عامة فقط، ولا يُعد نصيحة طبية أو تشخيصاً أو
+            علاجاً.
+          </p>
+
+          <h2>3. إخلاء مسؤولية الصحة والسلامة</h2>
+          <p>
+            أنت مسؤول عن صحتك وسلامتك. استشر مختصاً مؤهلاً قبل البدء بأي برنامج
+            تمارين، خصوصاً إذا كان لديك حالة طبية أو إصابة. توقف عن التمرين واطلب
+            المساعدة إذا شعرت بألم أو دوار أو ضيق نفس أو أي أعراض مقلقة.
+          </p>
+
+          <h2>4. دقة المخرجات</h2>
+          <p>
+            قد يستخدم التطبيق تعلم الآلة على الجهاز لتوليد تنبؤات واقتراحات. قد
+            تكون المخرجات غير دقيقة أو غير مكتملة أو غير مناسبة لحالتك. توافق على
+            عدم الاعتماد على التطبيق وحده لاتخاذ قرارات تؤثر على صحتك.
+          </p>
+
+          <h2>5. الخصوصية والبيانات</h2>
+          <p>
+            قد يقوم التطبيق بحفظ بعض الإعدادات وسجل التمارين محلياً على جهازك.
+            يرجى مراجعة سياسة الخصوصية (إن وجدت) لمعرفة التفاصيل.
+          </p>
+
+          <h2>6. مسؤوليات المستخدم</h2>
+          <p>توافق على:</p>
+          <ul>
+            <li>تقديم معلومات دقيقة عند الطلب.</li>
+            <li>استخدام التطبيق بشكل قانوني.</li>
+            <li>عدم إساءة الاستخدام أو الهندسة العكسية أو محاولة تعطيل التطبيق.</li>
+          </ul>
+
+          <h2>7. الملكية الفكرية</h2>
+          <p>
+            جميع محتويات التطبيق وتصاميمه وعلاماته التجارية وكوده مملوكة
+            لمالكي/مرخصي التطبيق ومحميّة بموجب القوانين المعمول بها.
+          </p>
+
+          <h2>8. خدمات الطرف الثالث</h2>
+          <p>
+            قد تعتمد بعض الميزات على مكتبات أو خدمات طرف ثالث. قد تنطبق أيضاً
+            شروطهم.
+          </p>
+
+          <h2>9. تحديد المسؤولية</h2>
+          <p>
+            إلى الحد الأقصى المسموح به قانوناً، لا يتحمل التطبيق ومالكو التطبيق أي
+            مسؤولية عن أي أضرار غير مباشرة أو عرضية أو خاصة أو تبعية أو عقابية، أو
+            أي خسارة تنتج عن استخدامك للتطبيق.
+          </p>
+
+          <h2>10. التغييرات على الشروط</h2>
+          <p>
+            قد نقوم بتحديث هذه الشروط من وقت لآخر. استمرارك في استخدام التطبيق بعد
+            التغييرات يعني موافقتك على الشروط المحدّثة.
+          </p>
+
+          <h2>11. التواصل</h2>
+          <p>
+            إذا كانت لديك أسئلة حول هذه الشروط، تواصل مع ناشر/دعم التطبيق عبر
+            البريد الموجود في صفحة التطبيق في المتجر.
+          </p>
+        </div>
+
+        <footer>
+          This page is provided for convenience and does not replace advice from
+          qualified professionals.
+        </footer>
+      </div>
+    </div>
+
+    <script>
+      const btnEn = document.getElementById("btn-en");
+      const btnAr = document.getElementById("btn-ar");
+      const contentEn = document.getElementById("content-en");
+      const contentAr = document.getElementById("content-ar");
+
+      function setLang(lang) {
+        const isAr = lang === "ar";
+        btnEn.setAttribute("aria-pressed", String(!isAr));
+        btnAr.setAttribute("aria-pressed", String(isAr));
+        contentEn.style.display = isAr ? "none" : "block";
+        contentAr.style.display = isAr ? "block" : "none";
+        document.documentElement.lang = isAr ? "ar" : "en";
+      }
+
+      btnEn.addEventListener("click", () => setLang("en"));
+      btnAr.addEventListener("click", () => setLang("ar"));
+    </script>
+  </body>
+</html>

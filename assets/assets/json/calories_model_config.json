@@ -1,0 +1,92 @@
+{
+  "feature_columns": [
+    "Age",
+    "Gender_Encoded",
+    "Weight (kg)",
+    "Height (m)",
+    "Avg_BPM",
+    "Max_BPM",
+    "Resting_BPM",
+    "Session_Duration (hours)",
+    "Workout_Type_Encoded",
+    "Fat_Percentage",
+    "Water_Intake (liters)",
+    "Workout_Frequency (days/week)",
+    "Experience_Level",
+    "BMI"
+  ],
+  "mandatory_features": [
+    "Age",
+    "Weight (kg)",
+    "Session_Duration (hours)",
+    "Gender",
+    "Workout_Type"
+  ],
+  "optional_features": [
+    "Height (m)",
+    "Avg_BPM",
+    "Max_BPM",
+    "Resting_BPM",
+    "Fat_Percentage",
+    "Water_Intake (liters)",
+    "Workout_Frequency (days/week)",
+    "Experience_Level",
+    "BMI"
+  ],
+  "optional_defaults": {
+    "Height (m)": 1.71,
+    "Avg_BPM": 143.0,
+    "Max_BPM": 180.0,
+    "Resting_BPM": 62.0,
+    "Fat_Percentage": 26.2,
+    "Water_Intake (liters)": 2.6,
+    "Workout_Frequency (days/week)": 3.0,
+    "Experience_Level": 2.0,
+    "BMI": 24.16
+  },
+  "scaler_mean": [
+    38.631105398457585,
+    0.532133676092545,
+    73.58329048843186,
+    1.7251285347043688,
+    143.52056555269922,
+    179.8637532133676,
+    62.20437017994858,
+    1.255951156812339,
+    1.4627249357326477,
+    25.033419023136247,
+    2.6398457583547597,
+    3.332904884318766,
+    1.8084832904884318,
+    24.74335475578402
+  ],
+  "scaler_scale": [
+    12.153005237809605,
+    0.4989663584459147,
+    21.088497052629258,
+    0.12898674303919014,
+    14.39705817168619,
+    11.545904683576452,
+    7.384631538410188,
+    0.3367219607454736,
+    1.116261562312555,
+    6.24503413059415,
+    0.6010325107989406,
+    0.8989980390654294,
+    0.733397217415338,
+    6.563101885150658
+  ],
+  "gender_classes": [
+    "Female",
+    "Male"
+  ],
+  "workout_classes": [
+    "Cardio",
+    "HIIT",
+    "Strength",
+    "Yoga"
+  ],
+  "test_mae": 43.32005310058594,
+  "test_rmse": 54.12040342057929,
+  "feature_importance_note": "Higher accuracy when optional features are provided"
+}

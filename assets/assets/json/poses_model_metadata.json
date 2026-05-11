@@ -1,0 +1,96 @@
+{
+  "model_info": {
+    "name": "Fitness Pose Classifier",
+    "version": "1.0",
+    "type": "CNN Image Classification",
+    "framework": "TensorFlow Lite",
+    "created_date": "2025-11-11 16:52:43"
+  },
+  "model_specs": {
+    "input_shape": [
+      1,
+      128,
+      128,
+      3
+    ],
+    "output_shape": [
+      1,
+      22
+    ],
+    "img_size": 128,
+    "num_classes": 22,
+    "total_parameters": 345526,
+    "model_size_kb": 355.6015625
+  },
+  "classes": [
+    "Barbell_biceps_curl",
+    "Bench_press",
+    "Chest_fly_machine",
+    "Deadlift",
+    "Decline_Bench_Press",
+    "Hammer_curl",
+    "Hip_thrust",
+    "Incline_bench_press",
+    "Lat_pulldown",
+    "Lateral_raise",
+    "Leg_extension",
+    "Leg_raises",
+    "Plank",
+    "Pull_up",
+    "Push_up",
+    "Romanian_deadlift",
+    "Russian_twist",
+    "Shoulder_press",
+    "Squat",
+    "T_bar_row",
+    "Tricep_dips",
+    "tricep_pushdown"
+  ],
+  "class_mapping": {
+    "0": "Barbell_biceps_curl",
+    "1": "Bench_press",
+    "2": "Chest_fly_machine",
+    "3": "Deadlift",
+    "4": "Decline_Bench_Press",
+    "5": "Hammer_curl",
+    "6": "Hip_thrust",
+    "7": "Incline_bench_press",
+    "8": "Lat_pulldown",
+    "9": "Lateral_raise",
+    "10": "Leg_extension",
+    "11": "Leg_raises",
+    "12": "Plank",
+    "13": "Pull_up",
+    "14": "Push_up",
+    "15": "Romanian_deadlift",
+    "16": "Russian_twist",
+    "17": "Shoulder_press",
+    "18": "Squat",
+    "19": "T_bar_row",
+    "20": "Tricep_dips",
+    "21": "tricep_pushdown"
+  },
+  "performance": {
+    "validation_accuracy": 0.9957386255264282,
+    "validation_loss": 0.014380937442183495,
+    "top_3_accuracy": 1.0,
+    "training_accuracy": 0.9939186573028564
+  },
+  "preprocessing": {
+    "normalize": "Divide pixel values by 255.0",
+    "resize": "Resize to 128x128",
+    "color_mode": "RGB",
+    "color_order": "RGB (not BGR)"
+  },
+  "usage_instructions": {
+    "input": "Float32 array of shape [1, 128, 128, 3]",
+    "output": "Float32 array of shape [1, 22]",
+    "preprocessing_steps": [
+      "1. Load image",
+      "2. Convert to RGB",
+      "3. Resize to 128x128",
+      "4. Normalize: pixel / 255.0",
+      "5. Add batch dimension"
+    ]
+  }
+}
