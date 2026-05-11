@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <!--
     If you are serving your web app in a path other than the root, change the
@@ -17,26 +17,169 @@
   <base href="/">
 
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="AI-powered personal fitness coach. Generate plans, track progress, and log workouts.">
-  <meta name="theme-color" content="#0A0B0D">
 
-  <!-- iOS meta tags & icons -->
+  <!-- ── Primary SEO ─────────────────────────────────────────────────────── -->
+  <title>AIPT — Free AI Personal Trainer | Workout Plans &amp; Calorie Tracker</title>
+  <meta name="description" content="AIPT is a free offline AI personal trainer app. Generate personalised gym workout plans, estimate calories from photos, track body measurements, log workouts, and hit your fitness goals — no account or subscription needed.">
+  <meta name="keywords" content="AI personal trainer, free workout planner, gym workout app, calorie tracker, exercise library, body measurement tracker, fitness app, offline fitness app, AI workout generator, muscle building app">
+  <meta name="author" content="Joshua George">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://aipt-ashen.vercel.app/">
+
+  <!-- ── Open Graph (Facebook, WhatsApp, LinkedIn previews) ─────────────── -->
+  <meta property="og:type"        content="website">
+  <meta property="og:url"         content="https://aipt-ashen.vercel.app/">
+  <meta property="og:site_name"   content="AIPT — AI Personal Trainer">
+  <meta property="og:title"       content="AIPT — Free AI Personal Trainer App">
+  <meta property="og:description" content="Generate personalised workout plans, track calories with your camera, log progress, and reach your fitness goals — 100% free and offline.">
+  <meta property="og:image"       content="https://aipt-ashen.vercel.app/icons/Icon-512.png">
+  <meta property="og:image:width"  content="512">
+  <meta property="og:image:height" content="512">
+  <meta property="og:locale"      content="en_US">
+
+  <!-- ── Twitter / X Card ───────────────────────────────────────────────── -->
+  <meta name="twitter:card"        content="summary">
+  <meta name="twitter:title"       content="AIPT — Free AI Personal Trainer App">
+  <meta name="twitter:description" content="Generate personalised workout plans, track calories with your camera, log progress. Free &amp; offline.">
+  <meta name="twitter:image"       content="https://aipt-ashen.vercel.app/icons/Icon-512.png">
+
+  <!-- ── Theme / PWA ────────────────────────────────────────────────────── -->
+  <meta name="theme-color" content="#0A0B0D">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="AIPT">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
-
-  <title>AIPT — AI Personal Trainer</title>
+  <link rel="icon" type="image/png" href="favicon.png">
   <link rel="manifest" href="manifest.json">
 
-  <!-- Adsterra site verification — replace content value from Adsterra dashboard -->
-  <meta name="adsterra-site-verification" content="REPLACE_WITH_VERIFICATION_CODE"/>
+  <!-- ── Structured Data — SoftwareApplication (Google Rich Results) ───── -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "AIPT — AI Personal Trainer",
+    "url": "https://aipt-ashen.vercel.app/",
+    "description": "Free offline AI personal trainer app. Generate personalised gym workout plans, estimate calories from photos, track body measurements, log workouts, and hit your fitness goals.",
+    "applicationCategory": "HealthApplication",
+    "operatingSystem": "Android, iOS, Web",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "featureList": [
+      "AI-powered workout plan generator",
+      "Camera-based calorie estimator",
+      "Body measurement tracker",
+      "500+ exercise library",
+      "Workout streak and progress tracking",
+      "Rest timer with haptic feedback",
+      "Offline — no account required"
+    ],
+    "screenshot": "https://aipt-ashen.vercel.app/icons/Icon-512.png",
+    "author": {
+      "@type": "Person",
+      "name": "Joshua George"
+    }
+  }
+  </script>
+
+  <!-- ── Adsterra site verification ─────────────────────────────────────── -->
+  <meta name="adsterra-site-verification" content="REPLACE_WITH_VERIFICATION_CODE">
+
+  <!-- ── Adsterra Social Bar + Popunder — skipped for ad-free users ─────── -->
+  <!-- Flutter stores 'ad_free_unlocked' as 'flutter.ad_free_unlocked' in localStorage -->
+  <script>
+    (function () {
+      if (localStorage.getItem('flutter.ad_free_unlocked') === 'true') return;
+
+      // Social Bar — load every session (non-intrusive persistent bar)
+      var s1 = document.createElement('script');
+      s1.src = 'https://pl29420070.profitablecpmratenetwork.com/6d/6b/be/6d6bbe2b1f0cb784e811fe537253cee4.js';
+      document.head.appendChild(s1);
+
+      // Popunder — max once per 24 hours to avoid annoying users
+      var last = parseInt(localStorage.getItem('aipt_popunder_last') || '0');
+      if (Date.now() - last > 86400000) {
+        localStorage.setItem('aipt_popunder_last', String(Date.now()));
+        var s2 = document.createElement('script');
+        s2.src = 'https://pl29420071.profitablecpmratenetwork.com/20/42/e6/2042e64bbc390de59507f2bf24ec4089.js';
+        document.head.appendChild(s2);
+      }
+    })();
+  </script>
 </head>
 <body>
+
+  <!--
+    ── SEO Pre-render / Loading Screen ──────────────────────────────────────
+    Flutter renders to Canvas on top of this. Users see it during load.
+    Google crawlers read the static HTML for indexing.
+    Hidden automatically once Flutter initialises (see script below).
+  -->
+  <div id="aipt-splash" aria-hidden="true" style="
+    position:fixed; inset:0;
+    background:#0A0B0D; color:#E8EAF0;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    display:flex; flex-direction:column;
+    align-items:center; justify-content:center;
+    padding:32px; text-align:center; z-index:1;">
+
+    <img src="icons/Icon-192.png" width="88" height="88"
+         alt="AIPT — AI Personal Trainer logo"
+         style="border-radius:22px; margin-bottom:24px; box-shadow:0 8px 32px rgba(200,255,0,0.15);">
+
+    <h1 style="font-size:26px; font-weight:800; margin:0 0 10px; letter-spacing:-0.5px;">
+      AIPT — AI Personal Trainer
+    </h1>
+
+    <p style="color:#7A8099; font-size:15px; max-width:440px; line-height:1.6; margin:0 0 28px;">
+      Free offline AI fitness app. Generate personalised gym workout plans,
+      estimate calories from photos, and track your body progress — no account needed.
+    </p>
+
+    <ul style="list-style:none; padding:0; margin:0 0 36px; color:#9AA0B8; font-size:14px; line-height:2.2;">
+      <li>🤖 AI-powered gym workout plan generator</li>
+      <li>📸 Calorie estimator using your camera</li>
+      <li>📊 Body measurement &amp; InBody progress tracking</li>
+      <li>🏋️ 500+ exercise library with video guides</li>
+      <li>🔔 Workout reminders &amp; rest timer</li>
+      <li>🌙 100% offline — works without internet</li>
+    </ul>
+
+    <div style="
+      width:40px; height:40px;
+      border:3px solid #2A2D3A;
+      border-top-color:#C8FF00;
+      border-radius:50%;
+      animation:spin 0.8s linear infinite;">
+    </div>
+    <p style="color:#4A5070; font-size:12px; margin-top:12px;">Loading AIPT…</p>
+  </div>
+
+  <style>
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+
+  <!-- Hide splash once Flutter is ready -->
+  <script>
+    window.addEventListener('flutter-first-frame', function () {
+      var el = document.getElementById('aipt-splash');
+      if (el) {
+        el.style.transition = 'opacity 0.3s';
+        el.style.opacity = '0';
+        setTimeout(function () { el.remove(); }, 350);
+      }
+    });
+    // Fallback: hide after 8 seconds if the event never fires
+    setTimeout(function () {
+      var el = document.getElementById('aipt-splash');
+      if (el) { el.style.opacity = '0'; setTimeout(function () { el.remove(); }, 350); }
+    }, 8000);
+  </script>
+
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
